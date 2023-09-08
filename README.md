@@ -2,7 +2,14 @@
 Development of an easy-to-use method for the dynamic parameters identification of a boom crane prototype
 
 
+
+
 This repository contains main codes and datasets leading to the results of my thesis. Please send an email to max.jongen@hotmail.com in case you need any precision about my work. 
+
+
+
+
+
 
 
 Abstract:
